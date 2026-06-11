@@ -1,6 +1,6 @@
 # 🛡️ OSCP / PEN-200 Master Pentesting Database
 
-## 🎯 Overview
+##  Overview
 
 This repository is a structured study database for OffSec PEN-200 (OSCP).
 It contains personal notes, methodologies, checklists, and penetration testing references covering the full lifecycle of ethical hacking.
@@ -10,7 +10,7 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 | #  | Module                            |
 | -- | --------------------------------- |
@@ -42,7 +42,7 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ## 🔍 01 — Penetration Testing Methodology
 
-### 🧭 The Pentesting Lifecycle (OffSec Model)
+###  The Pentesting Lifecycle (OffSec Model)
 
 1. **Scoping & Engagement Rules**
 
@@ -84,7 +84,7 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ---
 
-### 🧠 Core Mindset (OffSec Philosophy)
+###  Core Mindset (OffSec Philosophy)
 
 * **Try Harder** — never stop at first failure
 * **Enumerate More** — most misses come from poor enumeration
@@ -93,9 +93,9 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ---
 
-## 📝 02 — Report Writing
+##  02 — Report Writing
 
-### 📌 Best Practices
+###  Best Practices
 
 * Take screenshots immediately after every critical step
 * Each proof must include:
@@ -112,7 +112,7 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ---
 
-### 📄 Report Structure
+###  Report Structure
 
 1. Cover Page (Title, Date, Engagement)
 2. Executive Summary
@@ -126,20 +126,18 @@ Philosophy: **Try Harder — OffSec Mindset**
 
 ## 👤 About the Author
 
-**Mostafa Ibrahim**
+**Mostafa Ibrahim** **(DarcHacker)**
 Cybersecurity Student | Pentester | Red Team Learner
 
 🔗 LinkedIn: [www.linkedin.com/in/mostafa-ibrahim-60b543341](http://www.linkedin.com/in/mostafa-ibrahim-60b543341)
 
 ---
 
-## ⚖️ Disclaimer
+##  Disclaimer
 
 This repository is for **educational purposes only**.
 All techniques are intended for use in authorized environments such as labs and legal penetration testing engagements.
 
 ---
 
-## 🛠️ Status
-
-Maintained actively as part of OSCP PEN-200 preparation journey.
+### "The quieter you become, the more you are able to hear." — Try Harder.
